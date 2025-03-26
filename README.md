@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [Camila!]
+### Hi there 👋 I'm Camila!
 
 
 
-## I'm a Software Developer at Crossville Fabric
+## I'm a Web Developer at Crossville Fabric
 
 - 👨‍💻 Currently working at a textile company within a large group, using Microsoft-related technologies.
 - 📚 Learning everything about Frontend and Backend technologies 😅
