@@ -28,7 +28,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 
-<br/>
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khamilazz91&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
 
 ---
 
